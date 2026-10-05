@@ -1,7 +1,7 @@
 # Portfolio Walkthrough — Jabakumar P.
 
 A luxury editorial portfolio and personal brand website created for **Jabakumar P.** — Clinical Optometrist, Vision Science Researcher, and Visual Storyteller.
-
+https://jabakumarp.github.io/portfolio/
 ---
 
 ## 1. Design & Typography Direction
